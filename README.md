@@ -3,7 +3,6 @@
 ## I'm a Front-End Developer
 
 - 🌱 I’m currently learning THREE.JS :smiling_imp:
-- 🥅 2021 Goals: Start my own Youtube channel :movie_camera:
 
 ### Connect with me:
 
