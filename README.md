@@ -1,8 +1,6 @@
 ### Hello, I'm Atanas Peev [website] 👋
 
-## I'm a Front-End Developer
-
-- 🌱 I’m currently learning THREE.JS :smiling_imp:
+## I'm a Full-Stack Engineer
 
 ### Connect with me:
 
